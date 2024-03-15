@@ -126,3 +126,8 @@ span{
         font-size: 35px;
     }
 }
+
+footer{
+    position: relative;
+    bottom: 0;
+}

@@ -76,12 +76,26 @@ span{
     img{
         width: 30%;
     }
+    p{
+        position:absolute;
+        top: 40%;
+        left: 15%;
+        transform: translate(-50%, -50%);
+        font-size: 30px;
+    }
 }
 
 #Starter {
     position: relative;
     img{
         width: 30%;
+    }
+    p{
+        position:absolute;
+        top: 40%;
+        left: 15%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
     }
 }
 
@@ -90,11 +104,25 @@ span{
     img{
         width: 30%;
     }
+    p{
+        position:absolute;
+        top: 40%;
+        left: 15%;
+        transform: translate(-50%, -50%);
+        font-size: 30px;
+    }
 }
 
 #Summer {
     position: relative;
     img{
         width: 30%;
+    }
+    p{
+        position:absolute;
+        top: 40%;
+        left: 15%;
+        transform: translate(-50%, -50%);
+        font-size: 35px;
     }
 }

@@ -17,6 +17,7 @@
 
 /*Background image*/
 body{
+    overflow-x: hidden;
     background-position: relative;
     background-size: cover;
     background-repeat: repeat-y;
@@ -72,24 +73,28 @@ span{
 
 #BOGO {
     position: relative;
-    width: 30%;
-    float: left;
+    img{
+        width: 30%;
+    }
 }
 
 #Starter {
     position: relative;
-    width: 30%;
-    float: left;
+    img{
+        width: 30%;
+    }
 }
 
 #BOGOtwo {
     position: relative;
-    width: 30%;
-    float: left;
+    img{
+        width: 30%;
+    }
 }
 
 #Summer {
     position: relative;
-    width: 30%;
-    float: left;
+    img{
+        width: 30%;
+    }
 }

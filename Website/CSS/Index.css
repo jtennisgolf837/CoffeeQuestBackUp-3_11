@@ -69,3 +69,27 @@ span{
     left: 40px;
     color: white;
 }
+
+#BOGO {
+    position: relative;
+    width: 30%;
+    float: left;
+}
+
+#Starter {
+    position: relative;
+    width: 30%;
+    float: left;
+}
+
+#BOGOtwo {
+    position: relative;
+    width: 30%;
+    float: left;
+}
+
+#Summer {
+    position: relative;
+    width: 30%;
+    float: left;
+}
